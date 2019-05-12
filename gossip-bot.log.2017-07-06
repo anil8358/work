@@ -1,0 +1,178 @@
+2017-07-06 12:15:43 [    INFO:12439] [       app:106] (gossip-bot.app) Running Movie Gossip Bot
+2017-07-06 12:15:44 [    INFO:12446] [       app:106] (gossip-bot.app) Running Movie Gossip Bot
+2017-07-06 12:17:18 [    INFO:12477] [       app:106] (gossip-bot.app) Running Movie Gossip Bot
+2017-07-06 12:17:19 [    INFO:12485] [       app:106] (gossip-bot.app) Running Movie Gossip Bot
+2017-07-06 12:21:59 [    INFO:12563] [       app:106] (gossip-bot.app) Running Movie Gossip Bot
+2017-07-06 12:22:00 [    INFO:12570] [       app:106] (gossip-bot.app) Running Movie Gossip Bot
+2017-07-06 12:31:01 [    INFO:12570] [       app:059] (gossip-bot.app) Scrapping Web Content
+2017-07-06 12:31:01 [    INFO:12570] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/0
+2017-07-06 12:31:03 [    INFO:12570] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 12:31:16 [    INFO:12570] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/1
+2017-07-06 12:31:17 [    INFO:12570] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 12:31:31 [    INFO:12696] [       app:106] (gossip-bot.app) Running Movie Gossip Bot
+2017-07-06 12:31:32 [    INFO:12703] [       app:106] (gossip-bot.app) Running Movie Gossip Bot
+2017-07-06 12:31:37 [    INFO:12703] [       app:059] (gossip-bot.app) Scrapping Web Content
+2017-07-06 12:31:37 [    INFO:12703] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/0
+2017-07-06 12:31:38 [    INFO:12703] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 12:34:06 [    INFO:12716] [       app:106] (gossip-bot.app) Running Movie Gossip Bot
+2017-07-06 12:34:07 [    INFO:12723] [       app:106] (gossip-bot.app) Running Movie Gossip Bot
+2017-07-06 13:06:11 [    INFO:12723] [       app:059] (gossip-bot.app) Scrapping Web Content
+2017-07-06 13:06:11 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/0
+2017-07-06 13:06:13 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:06:25 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/1
+2017-07-06 13:06:26 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:06:37 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/2
+2017-07-06 13:06:38 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:06:49 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/3
+2017-07-06 13:06:51 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:07:02 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/4
+2017-07-06 13:07:03 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:07:15 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/5
+2017-07-06 13:07:16 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:07:30 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/6
+2017-07-06 13:07:31 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:07:43 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/7
+2017-07-06 13:07:44 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:07:55 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/8
+2017-07-06 13:07:56 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:08:08 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/9
+2017-07-06 13:08:09 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:08:23 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/10
+2017-07-06 13:08:24 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:08:39 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/11
+2017-07-06 13:08:40 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:08:56 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/12
+2017-07-06 13:08:57 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:09:12 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/13
+2017-07-06 13:09:13 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:09:29 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/14
+2017-07-06 13:09:30 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:09:45 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/15
+2017-07-06 13:09:47 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:10:04 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/16
+2017-07-06 13:10:06 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:10:21 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/17
+2017-07-06 13:10:22 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:10:37 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/18
+2017-07-06 13:10:39 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:10:55 [    INFO:12723] [crawl_missmalini:081] (gossip-bot.app) https://www.missmalini.com/category/bollywood/page/19
+2017-07-06 13:10:57 [    INFO:12723] [crawl_missmalini:084] (gossip-bot.app) 18
+2017-07-06 13:11:13 [    INFO:12723] [       app:065] (gossip-bot.app) Scrapping Normal Web Content Complete
+2017-07-06 13:11:13 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=0
+2017-07-06 13:11:15 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 24
+2017-07-06 13:11:36 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=1
+2017-07-06 13:11:37 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 24
+2017-07-06 13:12:18 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=2
+2017-07-06 13:12:19 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 24
+2017-07-06 13:13:14 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=3
+2017-07-06 13:13:15 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 24
+2017-07-06 13:14:10 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=4
+2017-07-06 13:14:10 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 24
+2017-07-06 13:15:08 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=5
+2017-07-06 13:15:09 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 24
+2017-07-06 13:16:08 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=6
+2017-07-06 13:16:08 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 24
+2017-07-06 13:17:03 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=7
+2017-07-06 13:17:03 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 24
+2017-07-06 13:17:59 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=8
+2017-07-06 13:18:00 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 24
+2017-07-06 13:18:58 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=9
+2017-07-06 13:18:59 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 24
+2017-07-06 13:19:55 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=10
+2017-07-06 13:19:55 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 8
+2017-07-06 13:20:16 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=11
+2017-07-06 13:20:17 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 0
+2017-07-06 13:20:17 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=12
+2017-07-06 13:20:18 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 0
+2017-07-06 13:20:18 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=13
+2017-07-06 13:20:19 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 0
+2017-07-06 13:20:19 [    INFO:12723] [crawl_movies:081] (gossip-bot.app) http://www.bollywood.com/movies?page=14
+2017-07-06 13:20:20 [    INFO:12723] [crawl_movies:085] (gossip-bot.app) 0
+2017-07-06 13:20:20 [    INFO:12723] [       app:065] (gossip-bot.app) Scrapping Normal Web Content Complete
+2017-07-06 13:20:20 [    INFO:12723] [crawl_bollywood_news:086] (gossip-bot.app) http://www.bollywood.com/celebrities/news?page=0
+2017-07-06 13:20:22 [    INFO:12723] [crawl_bollywood_news:090] (gossip-bot.app) 10
+2017-07-06 13:20:27 [    INFO:12723] [crawl_bollywood_news:086] (gossip-bot.app) http://www.bollywood.com/celebrities/news?page=1
+2017-07-06 13:20:27 [    INFO:12723] [crawl_bollywood_news:090] (gossip-bot.app) 10
+2017-07-06 13:20:33 [    INFO:12723] [crawl_bollywood_news:086] (gossip-bot.app) http://www.bollywood.com/celebrities/news?page=2
+2017-07-06 13:20:33 [    INFO:12723] [crawl_bollywood_news:090] (gossip-bot.app) 10
+2017-07-06 13:20:38 [    INFO:12723] [crawl_bollywood_news:086] (gossip-bot.app) http://www.bollywood.com/celebrities/news?page=3
+2017-07-06 13:20:39 [    INFO:12723] [crawl_bollywood_news:090] (gossip-bot.app) 10
+2017-07-06 13:20:48 [    INFO:12723] [crawl_bollywood_news:086] (gossip-bot.app) http://www.bollywood.com/celebrities/news?page=4
+2017-07-06 13:20:49 [    INFO:12723] [crawl_bollywood_news:090] (gossip-bot.app) 10
+2017-07-06 13:20:57 [    INFO:12723] [       app:065] (gossip-bot.app) Scrapping Normal Web Content Complete
+2017-07-06 13:22:25 [    INFO:12723] [crawl_bollywoodlife:050] (gossip-bot.app) could not fectch original date putting current date
+2017-07-06 13:25:33 [    INFO:12723] [       app:065] (gossip-bot.app) Scrapping Normal Web Content Complete
+2017-07-06 13:25:33 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=0
+2017-07-06 13:25:48 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=1
+2017-07-06 13:26:02 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=2
+2017-07-06 13:26:17 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=3
+2017-07-06 13:26:33 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=4
+2017-07-06 13:26:49 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=5
+2017-07-06 13:27:07 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=6
+2017-07-06 13:27:25 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=7
+2017-07-06 13:27:50 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=8
+2017-07-06 13:28:08 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=9
+2017-07-06 13:28:38 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=10
+2017-07-06 13:29:12 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=11
+2017-07-06 13:29:37 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=12
+2017-07-06 13:30:05 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=13
+2017-07-06 13:30:32 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=14
+2017-07-06 13:31:14 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=15
+2017-07-06 13:31:48 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=16
+2017-07-06 13:32:15 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=17
+2017-07-06 13:33:03 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=18
+2017-07-06 13:33:43 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=19
+2017-07-06 13:34:06 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=20
+2017-07-06 13:34:49 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=21
+2017-07-06 13:35:22 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=22
+2017-07-06 13:36:07 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=23
+2017-07-06 13:36:40 [    INFO:12723] [crawl_masala:085] (gossip-bot.app) http://www.masala.com/celebrities/news?page=24
+2017-07-06 13:37:12 [    INFO:12723] [       app:065] (gossip-bot.app) Scrapping Normal Web Content Complete
+2017-07-06 13:37:12 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=0
+2017-07-06 13:37:14 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 13:38:26 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=1
+2017-07-06 13:38:31 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 13:40:02 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=2
+2017-07-06 13:40:08 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 13:41:22 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=3
+2017-07-06 13:41:27 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 13:42:39 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=4
+2017-07-06 13:42:45 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 13:44:49 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=5
+2017-07-06 13:44:55 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 13:46:15 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=6
+2017-07-06 13:46:23 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 13:48:40 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=7
+2017-07-06 13:48:45 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 13:50:58 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=8
+2017-07-06 13:51:04 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 13:52:35 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=9
+2017-07-06 13:52:40 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 13:55:01 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=10
+2017-07-06 13:55:07 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 13:56:29 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=11
+2017-07-06 13:56:34 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 13:58:31 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=12
+2017-07-06 13:58:36 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 13:59:27 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=13
+2017-07-06 13:59:33 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 14:01:08 [    INFO:12723] [crawl_movies_toi:085] (gossip-bot.app) http://timesofindia.indiatimes.com/entertainment/hindi/movie-reviews?page=14
+2017-07-06 14:01:17 [    INFO:12723] [crawl_movies_toi:089] (gossip-bot.app) 20
+2017-07-06 14:04:43 [    INFO:12723] [       app:065] (gossip-bot.app) Scrapping Normal Web Content Complete
+2017-07-06 14:04:43 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/1
+2017-07-06 14:04:57 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/2
+2017-07-06 14:05:14 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/3
+2017-07-06 14:05:29 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/4
+2017-07-06 14:05:45 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/5
+2017-07-06 14:06:03 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/6
+2017-07-06 14:06:18 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/7
+2017-07-06 14:06:32 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/8
+2017-07-06 14:06:47 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/9
+2017-07-06 14:07:02 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/10
+2017-07-06 14:07:18 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/11
+2017-07-06 14:07:33 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/12
+2017-07-06 14:07:47 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/13
+2017-07-06 14:08:05 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/14
+2017-07-06 14:08:20 [    INFO:12723] [crawl_firstpost:083] (gossip-bot.app) http://www.firstpost.com/tag/bollywood/page/15
+2017-07-06 14:08:34 [    INFO:12723] [       app:065] (gossip-bot.app) Scrapping Normal Web Content Complete
+2017-07-06 14:11:28 [    INFO:12723] [       app:065] (gossip-bot.app) Scrapping Normal Web Content Complete
